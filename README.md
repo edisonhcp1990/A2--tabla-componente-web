@@ -18,7 +18,7 @@ my-table-wc es un componente web reutilizable desarrollado con Stencil.js que pe
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/edisonhcp1990/A2_Table_Componente-web.git
+git clone https://github.com/edisonhcp1990/A2--tabla-componente-web.git
 ```
 2. Dirigirse al proyecto y ubicarse en la carpeta componente-01-ehcarvajal
 
